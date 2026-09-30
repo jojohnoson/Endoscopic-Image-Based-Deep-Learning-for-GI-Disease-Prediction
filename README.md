@@ -1,5 +1,3 @@
-# Endoscopic-Image-Based-Deep-Learning-for-GI-Disease-Prediction
-Engineered a deep learning vision model for accurate endoscopic disease prediction, culminating in an IEEE-published research paper.
 # Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases
 
 A deep learning framework for automated classification of gastrointestinal (GI) diseases from endoscopic images, built as a computer-aided diagnosis (CAD) system to support clinicians with early, consistent, and reproducible diagnostic assistance.
