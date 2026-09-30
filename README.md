@@ -4,6 +4,7 @@ A deep learning framework for automated classification of gastrointestinal (GI) 
 
 > 📄 Published at IEEE: *Endoscopic Image-Based Deep Learning Approach for Predicting Gastrointestinal Diseases*
 > Authors: Joel Johnson BV, K Martin Victor (Karunya Institute of Technology and Sciences)
+> 📄 Paper Published in IEEE - [Read the paper](https://ieeexplore.ieee.org/abstract/document/11382902)
 
 ## Overview
 
@@ -44,7 +45,6 @@ Python · TensorFlow/Keras · CNNs (ResNet50, VGG16, MobileNetV2) · Kvasir Data
 ```
 Joel Johnson BV, K Martin Victor. "Endoscopic Image-Based Deep Learning Approach for
 Predicting Gastrointestinal Diseases." IEEE Conference, 2025.
-Paper Published in IEEE - [https://ieeexplore.ieee.org/abstract/document/11382902]
 ```
 <img width="857" height="433" alt="Screenshot 2026-04-28 224105" src="https://github.com/user-attachments/assets/b8fd36a6-fba0-4427-86ad-5d94fe2475c5" />
 <img width="527" height="207" alt="Screenshot 2025-09-05 142858" src="https://github.com/user-attachments/assets/1b600519-d6e1-4c04-8c76-fdee96da31f2" />
