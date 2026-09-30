@@ -1,6 +1,7 @@
 # Endoscopic-Image-Based-Deep-Learning-for-GI-Disease-Prediction
 Engineered a deep learning vision model for accurate endoscopic disease prediction, culminating in an IEEE-published research paper.
 
+<img width="857" height="433" alt="Screenshot 2026-04-28 224105" src="https://github.com/user-attachments/assets/b8fd36a6-fba0-4427-86ad-5d94fe2475c5" />
 <img width="527" height="207" alt="Screenshot 2025-09-05 142858" src="https://github.com/user-attachments/assets/1b600519-d6e1-4c04-8c76-fdee96da31f2" />
 <img width="201" height="157" alt="Screenshot 2025-09-10 010402" src="https://github.com/user-attachments/assets/20bd2281-e3d0-4a28-924a-9b228fb896c3" />
 <img width="202" height="167" alt="Screenshot 2025-09-10 010409" src="https://github.com/user-attachments/assets/af9abcd4-7b70-4f8b-809b-a82ffe504d03" />
